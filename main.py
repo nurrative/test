@@ -1,1 +1,1 @@
-print("japanese")
+print("Japanese")
